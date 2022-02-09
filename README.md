@@ -1,2 +1,2 @@
-# ZEROTH BLOCKS
+# ZEROTH BLOCK
 Hierarchies within the zeroth blocks
